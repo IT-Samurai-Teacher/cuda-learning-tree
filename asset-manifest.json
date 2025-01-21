@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/cuda-learning-tree/static/css/main.2ad592c5.css",
+    "main.js": "/cuda-learning-tree/static/js/main.840ce522.js",
+    "index.html": "/cuda-learning-tree/index.html",
+    "main.2ad592c5.css.map": "/cuda-learning-tree/static/css/main.2ad592c5.css.map",
+    "main.840ce522.js.map": "/cuda-learning-tree/static/js/main.840ce522.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.2ad592c5.css",
+    "static/js/main.840ce522.js"
+  ]
+}
